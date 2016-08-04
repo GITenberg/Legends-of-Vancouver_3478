@@ -1,0 +1,30 @@
+_repo: Legends-of-Vancouver_3478
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnson, E. Pauline
+    aliases:
+    - Johnson, Pauline
+    - Tekahionwake
+    - Johnson, Emily Pauline
+    birthdate: 1861
+    deathdate: 1913
+    gutenberg_agent_id: '1209'
+    url: http://www.gutenberg.org/2009/agents/1209
+    wikipedia: http://en.wikipedia.org/wiki/Pauline_Johnson
+description: ''
+gutenberg_issued: '2004-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcc 'F1001'
+- !lcsh 'Legends -- British Columbia -- Vancouver'
+- GITenberg
+title: Legends of Vancouver
+url: http://www.gutenberg.org/ebooks/3478
